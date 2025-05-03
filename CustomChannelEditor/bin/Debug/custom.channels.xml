@@ -1,0 +1,131 @@
+xml version="1.0" standalone="yes"?>
+<channels>
+  <!--Fox - Grand Junction-->
+  <channel id="I14949.labs.zap2it.com">1:0:1:3:0:0:A82AF60:0:0:0:</channel>
+  <!--CBS - Grand Juncion-->
+  <channel id="I10662.labs.zap2it.com">1:0:1:5:0:0:A82AF60:0:0:0:</channel>
+  <!--CTV - Halifax-->
+  <channel id="I14863.labs.zap2it.com">1:0:1:5:3:1:9DE8FB4:0:0:0:</channel>
+  <!--CTV - Ottawa-->
+  <channel id="I10127.labs.zap2it.com">1:0:1:3:3:1:9DE8FB4:0:0:0:</channel>
+  <!--CTV - Montreal-->
+  <channel id="I10104.labs.zap2it.com">1:0:1:4:3:1:9DE8FB4:0:0:0:</channel>
+  <!--CTV - Edmonton-->
+  <channel id="I15942.labs.zap2it.com">1:0:1:1:3:1:9DE8FB4:0:0:0:</channel>
+  <!--CTV - Calgary-->
+  <channel id="I15940.labs.zap2it.com">1:0:1:2:3:1:9DE8FB4:0:0:0:</channel>
+  <!--CTV - Moncton-->
+  <channel id="I16544.labs.zap2it.com">1:0:1:6:3:1:9DE8FB4:0:0:0:</channel>
+  <!--CTV - Vancouver-->
+  <channel id="I17594.labs.zap2it.com">1:0:1:9:3:1:9DE8FB4:0:0:0:</channel>
+  <!--CTV2 - Victoria-->
+  <channel id="I27190.labs.zap2it.com">1:0:1:7:3:1:9DE8FB4:0:0:0:</channel>
+  <!--LPB-->
+  <channel id="I11651.labs.zap2it.com">1:0:1:6:50F:0:AA92E23:0:0:0:</channel>
+  <!--LPB Kids-->
+  <channel id="I35866.labs.zap2it.com">1:0:1:4:50F:0:AA92E23:0:0:0:</channel>
+  <!--LPB 3-->
+  <channel id="I35864.labs.zap2it.com">1:0:1:5:50F:0:AA92E23:0:0:0:</channel>
+  <!--BYU TV-->
+  <channel id="I4369.21855.zap2it.com">1:0:1:1:3:0:A818F55:0:0:0:</channel>
+  <!--KWHE-TV(Hawaii)-->
+  <channel id="I000000">1:0:1:17:1:FFFF:A2F0FA0:0:0:0:</channel>
+  <!--WSJX-LP(Fox)-->
+  <channel id="I000000">1:0:1:1:1:0:A2F0EF3:0:0:0:</channel>
+  <!--WVGN-LP(NBC - Charlotte)-->
+  <channel id="I000000">1:0:1:2:1:0:A2F0EF3:0:0:0:</channel>
+  <!--SBN-->
+  <channel id="I88570.labs.zap2it.com">1:0:1:3:1:0:A2F0EF3:0:0:0:</channel>
+  <!--Buzzr-->
+  <channel id="I81301.labs.zap2it.com">1:0:1:14:3C5:0:A450F64:0:0:0:</channel>
+  <!--Bounce-->
+  <channel id="I92201.labs.zap2it.com">1:0:1:1:2:1:A458F6E:0:0:0:</channel>
+  <!--Grit-->
+  <channel id="I90164.labs.zap2it.com">1:0:1:2:2:1:A458F6E:0:0:0:</channel>
+  <!--Escape-->
+  <channel id="I90202.labs.zap2it.com">1:0:1:3:2:1:A458F6E:0:0:0:</channel>
+  <!--COZI TV-->
+  <channel id="I45803.labs.zap2it.com">1:0:1:7:2:1:A0A2DF0:0:0:0:</channel>
+  <!--LAFF-->
+  <channel id="I96430.labs.zap2it.com">1:0:1:4:2:1:A458F6E:0:0:0:</channel>
+  <!--CourtTV-->
+  <channel id="I70321.labs.zap2it.com">1:0:1:5:2:1:A458F6E:0:0:0:</channel>
+  <!--PURSUIT-->
+  <channel id="I60111.labs.zap2it.com">1:0:0:8:0:0:A1D1054:0:0:0:</channel>
+  <!--KWHB-HD-->
+  <channel id="I000000">1:0:1:13:1:FFFF:A2F0FA0:0:0:0:</channel>
+  <!--DABL-E-->
+  <channel id="I112329.labs.zap2it.com">1:0:1:6C:0:0:A458FF2:0:0:0:</channel>
+  <!--DABL-W-->
+  <channel id="I11.4.112976.zap2it.com">1:0:1:6D:0:0:A458FF2:0:0:0:</channel>
+  <!--Movies!-->
+  <channel id="I75319.labs.zap2it.com">1:0:1:1:2:0:A1D8EB4:0:0:0:</channel>
+  <!--Heroes & Icons East-->
+  <channel id="I97850.labs.zap2it.com">1:0:1:1:1:1:A1D8EA0:0:0:0:</channel>
+  <!--Heros & Icons West-->
+  <channel id="I11.4.112976.zap2it.com">1:0:1:1:1:0:A1D8E95:0:0:0:</channel>
+  <!--Start TV East-->
+  <channel id="I91694.labs.zap2it.com">1:0:1:1:1:1:A1D8E78:0:0:0:</channel>
+  <!--Start TV West-->
+  <channel id="I11.2.92434.zap2it.com">1:0:1:1:1:0:A1D8E7C:0:0:0:</channel>
+  <!--MeTV HD-->
+  <channel id="I40722.labs.zap2it.com">1:0:1:1:1:1:A1D8E8D:0:0:0:</channel>
+  <!--LIGHT TV-->
+  <channel id="I105640.labs.zap2it.com">1:0:1:3:0:0:A818F7E:0:0:0:</channel>
+  <!--Light TV-->
+  <channel id="I105640.labs.zap2it.com">1:0:1:18:1:FFFF:A2F0FA0:0:0:0:</channel>
+  <!--DABL-->
+  <channel id="I112329.labs.zap2it.com">1:0:1:14:1:FFFF:A2F0FA0:0:0:0:</channel>
+  <!--FETV-->
+  <channel id="I73413.labs.zap2it.com">1:0:1:1:1:FFFF:A2F0FA0:0:0:0:</channel>
+  <!--JusticeTV-->
+  <channel id="I000000">1:0:16:1:0:40:A450000:0:0:0:</channel>
+  <!--Justice-->
+  <channel id="I49115.labs.zap2it.com">1:0:1:11:3C5:0:A450F64:0:0:0:</channel>
+  <!--AMG-TV-->
+  <channel id="I000000">1:0:1:1:1:1:A458F07:0:0:0:</channel>
+  <!--ANT1 SAT-->
+  <channel id="I000000">1:0:1:1B59:2:1:A09902C:0:0:0:</channel>
+  <!--HSN2 HD-->
+  <channel id="I10270.labs.zap2it.com">1:0:1:6D:1:1:A090FA0:0:0:0:</channel>
+  <!--DW English HD-->
+  <channel id="I000000">1:0:11:6:2:1:A09902C:0:0:0:</channel>
+  <!--NHK World-->
+  <channel id="I28.2.34639.zap2it.com">1:0:1:2:1:0:A0AAF71:0:0:0:</channel>
+  <!--CGTN-->
+  <channel id="I29114.labs.zap2it.com">1:0:1:6:1:0:A0AAF71:0:0:0:</channel>
+  <!--SBN-->
+  <channel id="I88570.labs.zap2it.com">1:0:1:3:1:0:A0AAF71:0:0:0:</channel>
+  <!--Hapa-->
+  <channel id="I000000">1:0:1:D:0:0:A1D1054:0:0:0:</channel>
+  <!--SLA-TV-->
+  <channel id="I000000">1:0:1:6:0:0:A1D1054:0:0:0:</channel>
+  <!--JTV HD MP4-->
+  <channel id="I16604.labs.zap2it.com">1:0:1:5:0:0:A1D102C:0:0:0:</channel>
+  <!--JTV Extra-->
+  <channel id="I000000">1:0:1:3:0:0:A1D102C:0:0:0:</channel>
+  <!--NASA-->
+  <channel id="I000000">1:0:1F:1F6:3EF:A:A1D0000:0:0:0:</channel>
+  <!--UHD-1-->
+  <channel id="I000000">1:0:1F:1F8:3EF:A:A1D0000:0:0:0:</channel>
+  <!--Newsy-->
+  <channel id="I96827.labs.zap2it.com">1:0:1:1A:C9:1:A1D0EEC:0:0:0:</channel>
+  <!--HSN-->
+  <channel id="I10269.labs.zap2it.com">1:0:1:16:1:FFFF:A2F0FA0:0:0:0:</channel>
+  <!--Lesea Feeds-->
+  <channel id="I000000">1:0:1:2:1:FFFF:A2F0FA0:0:0:0:</channel>
+  <!--Walk TV-->
+  <channel id="I000000">1:0:16:1:1:1:A458F0C:0:0:0:</channel>
+  <!--LATV-->
+  <channel id="I000000">1:0:1:1:1:1:A458F11:0:0:0:</channel>
+  <!--BVN_TV-->
+  <channel id="I000000">1:0:1:11:4:1:A462F1B:0:0:0:</channel>
+  <!--Juce TV-->
+  <channel id="I000000">1:0:1:142:7:1:A46AF15:0:0:0:</channel>
+  <!--Classic Arts HD Pri-->
+  <channel id="I000000">1:0:1:1:1:1:A818FE2:0:0:0:</channel>
+  <!--Patient Channel-->
+  <channel id="I000000">1:0:1:2:1:0:AA92E18:0:0:0:</channel>
+  <!--Florida Channel-->
+  <channel id="I000000">1:0:1:3:1:1:AA9AF0C:0:0:0:</channel>
+</channels>

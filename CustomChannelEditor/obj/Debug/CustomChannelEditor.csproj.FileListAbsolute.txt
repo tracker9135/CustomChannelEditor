@@ -1,0 +1,51 @@
+C:\Users\ffeld\source\repos\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.exe.config
+C:\Users\ffeld\source\repos\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.exe
+C:\Users\ffeld\source\repos\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.pdb
+C:\Users\ffeld\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csprojAssemblyReference.cache
+C:\Users\ffeld\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.Form1.resources
+C:\Users\ffeld\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.Properties.Resources.resources
+C:\Users\ffeld\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.GenerateResource.cache
+C:\Users\ffeld\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.exe
+C:\Users\ffeld\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.pdb
+C:\Users\ffeld\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.CoreCompileInputs.cache
+D:\_Repo\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.exe.config
+D:\_Repo\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.exe
+D:\_Repo\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.pdb
+D:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.Form1.resources
+D:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.Properties.Resources.resources
+D:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.GenerateResource.cache
+D:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.CoreCompileInputs.cache
+D:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.exe
+D:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.pdb
+D:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.AssemblyReference.cache
+H:\_Repo\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.exe.config
+H:\_Repo\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.exe
+H:\_Repo\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.pdb
+H:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.AssemblyReference.cache
+H:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.SuggestedBindingRedirects.cache
+H:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.Properties.Resources.resources
+H:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.GenerateResource.cache
+H:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.CoreCompileInputs.cache
+H:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.exe
+H:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.pdb
+H:\_Repo\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.MainForm.resources
+D:\Source\Repos\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.exe.config
+D:\Source\Repos\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.exe
+D:\Source\Repos\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.pdb
+D:\Source\Repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.AssemblyReference.cache
+D:\Source\Repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.MainForm.resources
+D:\Source\Repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.Properties.Resources.resources
+D:\Source\Repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.GenerateResource.cache
+D:\Source\Repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.CoreCompileInputs.cache
+D:\Source\Repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.exe
+D:\Source\Repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.pdb
+C:\Users\Player One\source\repos\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.exe.config
+C:\Users\Player One\source\repos\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.exe
+C:\Users\Player One\source\repos\CustomChannelEditor\CustomChannelEditor\bin\Debug\CustomChannelEditor.pdb
+C:\Users\Player One\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.AssemblyReference.cache
+C:\Users\Player One\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.MainForm.resources
+C:\Users\Player One\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.Properties.Resources.resources
+C:\Users\Player One\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.GenerateResource.cache
+C:\Users\Player One\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.csproj.CoreCompileInputs.cache
+C:\Users\Player One\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.exe
+C:\Users\Player One\source\repos\CustomChannelEditor\CustomChannelEditor\obj\Debug\CustomChannelEditor.pdb
